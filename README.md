@@ -1,6 +1,6 @@
 ---
 post_title: 'Hello World'
-layout: post_type_probably_post
+layout: post
 published: false
 ---
 # hello-world
